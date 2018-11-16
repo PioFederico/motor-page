@@ -1,5 +1,5 @@
 body {
-	background-color: blue;
+	background-color: white;
 }
 h1 {
 	background-color: red;
@@ -14,7 +14,4 @@ img {
 h2 {
 	color: red;
 	text-align: center;
-}
-p {
-	color: white;
 }
