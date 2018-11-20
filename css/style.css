@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background-color: purple;
 }
 h1 {
 	background-color: red;
@@ -8,8 +8,6 @@ h1 {
 }
 img {
 	width: 250px;
-	position: relative;
-	left: 400px;
 }
 h2 {
 	color: red;
@@ -18,3 +16,34 @@ h2 {
 .red-text {
 	color: red;
 }
+.blue-text {
+	color: blue;
+}
+.orange-text {
+	color: orange;
+}
+/*
+#image-id {
+	position: relative;
+	left: -60px;
+}
+#image-id-2 {
+	position: relative;
+	left: 350px;
+}
+.text-position {
+	position: relative;
+	top: -300px;
+}
+.paragraph-top {
+	position: relative;
+	top: -290px;
+}
+.paragraph-right {
+	position: relative;
+	right: -185px;
+}
+.paragraph-left {
+	position: relative;
+	left: -185px;
+}*/
