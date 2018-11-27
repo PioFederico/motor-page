@@ -1,8 +1,8 @@
 #sfondo {
-	background: linear-gradient(90deg, white, black);
+	background: linear-gradient(90deg, red, white, green);
 }
 h1 {
-	color: white;
+	color: black;
 	text-align: center;
 }
 img {
