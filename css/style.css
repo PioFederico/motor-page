@@ -30,10 +30,10 @@ p:hover {
 	0% {
 		background: green;
 	}
-	50% {
+	25% {
 		background: white;
 	}
-	100% {
+	50% {
 		background: red;
 	}
 }
